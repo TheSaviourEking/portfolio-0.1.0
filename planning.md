@@ -1,7 +1,8 @@
 # Planning
 
 ## h1, h2 ,h3 : font - poppins
-## body: font - nunito;
+
+## body: font - nunito
 
 H1 headers
 Font:  Arial, strong, large
